@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UxvApp</string>
+
+    <string name="update_title">更新提醒</string>
+    <string name="update_size">新版本大小</string>
+    <string name="update_content">準備更新．．．</string>
+    <string name="update">更新</string>
+</resources>
